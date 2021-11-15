@@ -1,7 +1,7 @@
 # Notes-app
 
 ## About
-* This app allows to add and remove notes to a json file via command line arguments in node.js. 
+* This is simple interface to simulate note taking experience via command line arguments in node.js. 
 * Yargs package has been used to parse the command line arguments. 
 * The file system module has been used for storing the data into JSON format and retrieving it whenever required. 
 * Chalk package has been used to enhance the user readability. 
